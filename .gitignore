@@ -77,3 +77,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.vs/LightTron/v15/ipch/AutoPCH/a1f4bdeda6e9db02/MAIN.ipch
+*.ipch
+*.suo
+.vs/LightTron/v15/Browse.VC.db
